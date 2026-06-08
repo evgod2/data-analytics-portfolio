@@ -1,0 +1,85 @@
+---
+title: "The Synthetic Predator: Auditing AI-Automation in 2025 Bitcoin Scams"
+author: "Evan Deaver"
+date: "April 18, 2026"
+output: 
+  html_document:
+    theme: darkly
+    highlight: tango
+    toc: true
+    toc_float: true
+---
+
+## 1. The Problem: Industrialized Fraud
+This audit proves the **synthetic origin** of 2025 Bitcoin scam lures. Instead of just searching for "scammy" keywords, we are identifying the "robotic fingerprints" left behind by Large Language Models (LLMs).
+
+## 2. The Fingerprint: Robotic vs. Human 
+When humans write, word complexity follows a smooth, natural curve (Grey). In contrast, the 2025 scams (Red) show sharp, rigid "spikes." This indicates that thousands of supposedly different attackers are all using the same few AI models.
+
+```{r forensic_analysis, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+load("D:/evan/documents/portfolio_snapshot.RData")
+
+plot_data_orig <- rbind(
+  ai_clean %>% filter(generated == 0) %>% select(avg_word_len) %>%
+    filter(avg_word_len > 2 & avg_word_len < 12) %>% mutate(Source = "Human Baseline"),
+  scam_audit %>% select(avg_word_len) %>%
+    filter(avg_word_len > 2 & avg_word_len < 12) %>% mutate(Source = "2025 Bitcoin Audit")
+)
+
+ggplot(plot_data_orig, aes(x = avg_word_len, fill = Source)) +
+  geom_density(alpha = 0.4, color = "white") +
+  scale_fill_manual(values = c("Human Baseline" = "#7f8c8d", "2025 Bitcoin Audit" = "#c0392b")) +
+  theme_minimal() +
+  labs(title = "The 'Robotic' Distribution", x = "Word Complexity", y = "Concentration")
+```
+
+## 3. The Evidence: Chaos vs. Consistency
+Human communication is naturally varied. AI, however, is mathematically consistent. In the chart below, each dot represents a single message. The **Human** dots are an organic, scattered cloud; the **AI** dots align into perfectly straight, robotic rows.
+
+```{r jitter_plot, echo=FALSE, message=FALSE, warning=FALSE}
+ggplot(plot_data_orig, aes(x = Source, y = avg_word_len, color = Source)) +
+  geom_jitter(alpha = 0.15, width = 0.25, height = 0, size = 1) + 
+  geom_boxplot(outlier.shape = NA, fill = NA, color = "white", lwd = 0.5) +
+  scale_color_manual(values = c("Human Baseline" = "#7f8c8d", "2025 Bitcoin Audit" = "#c0392b")) +
+  theme_minimal() +
+  coord_flip(ylim = c(3, 10)) +
+  labs(title = "Visualizing the Pattern", subtitle = "Human 'Noise' vs. AI 'Rigidity'", x = "", y = "Word Complexity") +
+  theme(legend.position = "none")
+```
+
+### The Predictability Score
+This table calculates the "Predictability" of the text. The lower the score, the more robotic the pattern. The data shows the scams are significantly more rigid than natural speech.
+
+```{r entropy_calculation, echo=FALSE, message=FALSE, warning=FALSE}
+entropy_stats <- plot_data_orig %>%
+  group_by(Source) %>%
+  summarise(
+    `Avg Complexity` = mean(avg_word_len),
+    `Predictability Score (%)` = (sd(avg_word_len) / mean(avg_word_len)) * 100
+  )
+
+knitr::kable(entropy_stats, digits = 2, col.names = c("Source", "Avg Complexity", "Predictability Score (%)"))
+```
+
+## 4. The Stress Test: Subject vs. Source
+Could this pattern just be a result of the technical jargon used in Bitcoin discussions? **No.** Even when humans discuss crypto (Green), they maintain their natural linguistic variety. The scams (Red) remain trapped in their robotic spikes regardless of the topic.
+
+```{r stress_test, echo=FALSE, message=FALSE, warning=FALSE}
+plot_data_stress <- rbind(
+  plot_data_orig %>% filter(Source == "Human Baseline") %>% mutate(Source = "Human (Normal)"),
+  reddit_baseline %>% select(avg_word_len) %>% filter(avg_word_len > 2 & avg_word_len < 12) %>% mutate(Source = "Human (Crypto-Specific)"),
+  plot_data_orig %>% filter(Source == "2025 Bitcoin Audit") %>% mutate(Source = "AI Scam")
+)
+
+ggplot(plot_data_stress, aes(x = avg_word_len, fill = Source)) +
+  geom_density(alpha = 0.4, color = "white") +
+  scale_fill_manual(values = c("Human (Normal)" = "#7f8c8d", "Human (Crypto-Specific)" = "#27ae60", "AI Scam" = "#c0392b")) +
+  theme_minimal() +
+  labs(title = "Isolating the Generative Source", x = "Word Complexity", y = "Concentration")
+```
+
+## 5. Conclusion: The Industrial Bottleneck
+AI can mimic the *vocabulary* of a scam, but it cannot yet mimic the *chaos* of human speech. 
+
+We have identified a **manufacturing defect** in modern fraud. By filtering for these "robotic rows" instead of just keywords, we can block automated lures at the gateway. The objective is to make industrialized fraud too expensive to operate by forcing predators to hide back in the "noise" of human conversation.
