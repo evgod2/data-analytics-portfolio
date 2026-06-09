@@ -1,0 +1,50 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.env
+venv/
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+
+# Data files (large files not tracked)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite
+data/raw/
+data/processed/
+
+# Output files
+*.log
+*.out
+output/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Dependencies
+node_modules/
+package-lock.json
