@@ -1,103 +1,111 @@
-# Data Analytics Portfolio
+# Main Portfolio README
 
-Welcome to my data analytics portfolio! I transform raw data into actionable insights using R, SQL, and visualization tools. Below you'll find a curated collection of my analytical projects showcasing different techniques, tools, and domains.
+Welcome to my data analytics portfolio. I specialize in transforming raw data into actionable business insights using R, SQL, Python, and Tableau. Below you'll find a curated collection of projects showcasing statistical analysis, predictive modeling, and business intelligence capabilities.
 
 ---
 
 ## 📊 Featured Projects
 
-### R Projects
+### 1. Operational Risk Briefing: Strategic Audit Prioritization
+**Skills:** Machine Learning, Predictive Modeling, Risk Analysis, Data Visualization  
+**Tools:** R (Random Forest, tidyverse, ggplot2)  
+**Impact:** Developed a Random Forest model to identify operational risk signatures and optimize audit prioritization
 
-#### 1. **Operational Risk Briefing: Strategic Audit Prioritization**
-- **Description:** Developed a Predictive Oversight model using Random Forest machine learning to optimize audit scheduling and identify risk signatures that lead to operational failures.
-- **Skills:** Machine Learning, Data Analysis, Risk Assessment, Random Forest
-- **Link:** [View on RPubs](https://rpubs.com/slammerjammer/1422063)
+**Project Overview:**
+- Built predictive model identifying key risk indicators that lead to operational failures
+- Analyzed historical failure patterns to inform audit scheduling strategy
+- Created data visualizations for stakeholder reporting
 
-#### 2. **The Synthetic Predator: Auditing AI-Automation in 2025 Bitcoin Scams**
-- **Description:** In-depth analysis of auditing risks in the context of AI-driven automation and its impact on financial fraud prevention in cryptocurrency markets.
-- **Skills:** AI/Automation Analysis, Financial Fraud Detection, Data Analysis
-- **Link:** [View on RPubs](https://rpubs.com/slammerjammer/1423363)
-
-#### 3. **Casual vs Annual Customers: Cyclistic**
-- **Description:** Comparative analysis of cycling patterns between casual and annual Cyclistic customers using data visualization and statistical methods to inform business strategy.
-- **Skills:** Customer Segmentation, Data Visualization, Statistical Analysis, Business Intelligence
-- **Link:** [View on RPubs](https://rpubs.com/slammerjammer/1371255)
+**[View Full Analysis →](https://rpubs.com/slammerjammer/1422063)**
 
 ---
 
-### Tableau Visualizations
+### 2. The Synthetic Predator: Auditing AI-Automation in Bitcoin Scams
+**Skills:** Financial Analysis, Fraud Detection, AI Risk Assessment  
+**Tools:** R, Statistical Analysis  
+**Impact:** Identified vulnerabilities in AI-driven fraud detection systems
 
-Explore interactive dashboards and data visualizations on Tableau Public:
-- **Profile:** [Evan Deaver - Tableau Public](https://public.tableau.com/app/profile/evan.deaver/vizzes)
-- **Focus Areas:** Business metrics, customer analytics, and trend visualization
-- **Skills:** Dashboard Design, Interactive Visualization, Data Storytelling
+**Project Overview:**
+- Analyzed cryptocurrency fraud patterns and automation risks
+- Examined AI's impact on fraud detection effectiveness
+- Provided audit framework recommendations for automated systems
+
+**[View Full Analysis →](https://rpubs.com/slammerjammer/1423363)**
 
 ---
 
-### Additional Projects
+### 3. Customer Segmentation Analysis: Cyclistic
+**Skills:** Customer Analytics, Behavioral Segmentation, Statistical Analysis  
+**Tools:** R (dplyr, ggplot2, statistical testing)  
+**Impact:** Identified actionable customer behavior differences to inform conversion strategy
 
-Check out more data exploration, analysis notebooks, and competitive projects:
-- **Kaggle:** [evandeaver](https://www.kaggle.com/evandeaver)
-- **Skills:** Python, Data Science, Exploratory Data Analysis
+**Project Overview:**
+- Segmented customer base into casual and annual user groups
+- Analyzed usage patterns, behavioral differences, and engagement metrics
+- Performed statistical tests comparing segments
+- Delivered data-driven recommendations for customer conversion
+
+**[View Full Analysis →](https://rpubs.com/slammerjammer/1371255)**
+
+---
+
+## 📈 Interactive Dashboards
+
+Explore interactive Tableau visualizations and business dashboards:  
+**[Tableau Public Profile →](https://public.tableau.com/app/profile/evan.deaver/vizzes)**
+
+Focus areas include business metrics, customer analytics, and trend visualization.
+
+---
+
+## 🔬 Additional Analysis & Exploration
+
+Hands-on data science projects, competitive analytics, and model development:  
+**[Kaggle Profile →](https://www.kaggle.com/evandeaver)**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages & Tools
-- **R** - Data analysis, visualization, statistical modeling
-- **SQL** - Data querying, database management
-- **Tableau** - Interactive dashboards, business intelligence
-- **Python** - Data science and machine learning
-- **Excel** - Advanced analytics and reporting
+### Languages & Databases
+- **R** - Data analysis, statistical modeling, visualization (tidyverse, ggplot2, caret)
+- **SQL** - Data querying, database management, complex joins
+- **Python** - Data science libraries (pandas, scikit-learn, matplotlib)
+- **Advanced Excel** - Pivot tables, VLOOKUP, advanced formulas
 
-### Methodologies
-- Machine Learning & Predictive Modeling
-- Statistical Analysis
-- Data Visualization & Storytelling
-- Business Intelligence
-- Risk Analysis & Assessment
+### Analysis & Visualization
+- **Exploratory Data Analysis (EDA)** - Pattern identification, anomaly detection
+- **Statistical Analysis** - Hypothesis testing, regression analysis, trend analysis
+- **Predictive Modeling** - Machine learning, classification, forecasting
+- **Data Visualization** - Tableau, Power BI, interactive dashboards
+- **Business Intelligence** - Metrics reporting, stakeholder communication
 
----
-
-## 💡 Core Competencies
-
-- **Data Analysis & Exploration** - Identifying patterns and extracting meaningful insights
-- **Business Problem Solving** - Translating analytical findings into actionable recommendations
-- **Data Visualization** - Creating compelling visual narratives from complex datasets
-- **Predictive Modeling** - Building ML models for forecasting and risk assessment
-- **Dashboard Development** - Designing interactive tools for stakeholder reporting
+### Data Management
+- Data cleaning & validation
+- Feature engineering
+- Data transformation & aggregation
+- Database design principles
 
 ---
 
-## 📈 Project Highlights
+## 💡 Approach
 
-| Project | Tool | Domain | Key Insight |
-|---------|------|--------|-------------|
-| Operational Risk Briefing | R | Risk Management | Random Forest model improved audit prioritization |
-| Bitcoin Scam Analysis | R | Cybersecurity/Finance | AI-automation impact on fraud detection |
-| Cyclistic Customer Analysis | R | Business Analytics | Behavioral differences drive customer segmentation strategy |
-| Tableau Dashboards | Tableau | Various | Interactive storytelling for stakeholder decisions |
-| Data Analysis Projects | Python/SQL | Competitive Analytics | Hands-on exploration and model development |
+I focus on:
+- **Clear Problem Definition** - Understanding business context before analysis
+- **Rigorous Methodology** - Applying appropriate statistical and ML techniques
+- **Data-Driven Storytelling** - Translating findings into actionable recommendations
+- **Stakeholder Communication** - Presenting complex insights accessibly
 
 ---
 
-## 🎯 About This Portfolio
-
-This portfolio represents my commitment to rigorous data analysis, clear communication, and delivering business value through insights. Each project demonstrates my ability to:
-- Work with real-world datasets
-- Apply appropriate analytical techniques
-- Present findings in accessible formats
-- Drive actionable recommendations
-
----
-
-## 📫 Contact
+## 📫 Contact & Links
 
 - **GitHub:** [github.com/evgod2](https://github.com/evgod2)
-- **Tableau Public:** [Evan Deaver](https://public.tableau.com/app/profile/evan.deaver/vizzes)
-- **Kaggle:** [evandeaver](https://www.kaggle.com/evandeaver)
-- **RPubs:** [slammerjammer](https://rpubs.com/slammerjammer)
+- **Portfolio:** [github.com/evgod2/data-analytics-portfolio](https://github.com/evgod2/data-analytics-portfolio)
+- **Email:** evgod2@gmail.com
+- **LinkedIn:** [linkedin.com/in/evan-deaver-276152a5](https://www.linkedin.com/in/evan-deaver-276152a5/)
+- **Kaggle:** [kaggle.com/evandeaver](https://www.kaggle.com/evandeaver)
+- **RPubs:** [rpubs.com/slammerjammer](https://rpubs.com/slammerjammer)
 
 ---
 
