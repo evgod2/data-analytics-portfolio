@@ -1,124 +1,101 @@
-# Projects Directory
+# Data Analytics Portfolio
 
-Welcome to the projects section of my data analytics portfolio! This directory is organized by technology and project type, making it easy to explore my work.
+Professional data analytics projects organized by tool and methodology.
 
 ---
 
 ## 📁 Project Categories
 
-### [R Projects](./r-projects/)
-Data analysis and machine learning projects showcasing statistical analysis, predictive modeling, and business intelligence applications.
+### [R Analytics Projects](./r-projects/)
 
-**Featured Projects:**
-- Operational Risk Briefing: Strategic Audit Prioritization
-- The Synthetic Predator: Auditing AI-Automation in Bitcoin Scams
-- Casual vs Annual Customers: Cyclistic
+Statistical analysis, exploratory data analysis, and machine learning projects demonstrating analytical rigor and business impact.
 
-**Skills:** Machine Learning, Statistical Analysis, Data Visualization, Business Analytics
+**Featured:**
+- Operational Risk Briefing (Predictive Modeling)
+- Customer Segmentation Analysis (EDA & Statistics)
+- Cryptocurrency Fraud Analysis (Anomaly Detection)
+
+**Skills:** Machine Learning, Statistical Analysis, Data Visualization, R Programming
 
 ---
 
-### [SQL Projects](./sql-projects/)
-Database querying and data analysis projects demonstrating advanced SQL techniques and real-world problem solving.
+### [SQL & Database Projects](./sql-projects/)
+
+Database querying, data transformation, and complex analysis projects demonstrating SQL proficiency.
 
 **Focus Areas:**
 - Complex query development
 - Data exploration and validation
 - Performance optimization
-- Business intelligence
+- Business intelligence reporting
 
-**Skills:** SQL, Database Design, Query Optimization, Data Analysis
+**Skills:** SQL, Database Design, Query Optimization, Data Transformation
 
 ---
 
 ### [Tableau Dashboards](./tableau-dashboards/)
-Interactive visualizations and dashboards that tell data stories and provide actionable business insights.
+
+Interactive visualizations and business intelligence dashboards communicating insights for stakeholder decision-making.
 
 **Focus Areas:**
-- Dashboard design
-- Data storytelling
-- Interactive analytics
-- Business metrics
+- Dashboard design and interactivity
+- Data storytelling and visualization
+- Business metrics and KPI reporting
+- Real-time analytics
 
-**Skills:** Tableau, Data Visualization, Interactive Design, Analytics
-
----
-
-## 🚀 Quick Navigation
-
-| Technology | Focus | Status | View |
-|-----------|-------|--------|------|
-| **R** | Statistical Analysis, ML, BI | Complete | [R Projects](./r-projects/) |
-| **SQL** | Data Querying, Database Analysis | In Development | [SQL Projects](./sql-projects/) |
-| **Tableau** | Interactive Dashboards, Visualizations | Active | [Tableau Dashboards](./tableau-dashboards/) |
+**Skills:** Tableau, Business Intelligence, Data Visualization, Stakeholder Reporting
 
 ---
 
-## 📊 By Domain
+## 🔧 Technical Expertise
 
-### Business Analytics
-- Cyclistic Customer Analysis (R)
-- [Your business dashboards]
+| Skill | Proficiency | Applications |
+|-------|-------------|--------------|
+| **R** | Advanced | Statistical analysis, predictive modeling, data visualization |
+| **SQL** | Intermediate | Data querying, database management, ETL |
+| **Python** | Intermediate | Data science, machine learning, scripting |
+| **Tableau** | Intermediate | Business dashboards, interactive reporting |
+| **Excel** | Expert | Advanced analytics, data modeling, reporting |
 
-### Risk & Audit
-- Operational Risk Briefing (R)
-- The Synthetic Predator (R)
+---
 
-### Data Science
-- [Your Kaggle projects](https://www.kaggle.com/evandeaver)
-- [Your advanced analytics]
+## 📊 Analysis Capabilities
+
+### Core Competencies
+- **Exploratory Data Analysis** - Identifying patterns, trends, and anomalies
+- **Statistical Analysis** - Hypothesis testing, confidence intervals, correlation analysis
+- **Predictive Modeling** - Classification, regression, forecasting
+- **Data Visualization** - Creating compelling, actionable visualizations
+- **Business Intelligence** - Metrics reporting and stakeholder communication
+- **Data Transformation** - Cleaning, validation, feature engineering
+
+### Tools & Languages
+- R (tidyverse, ggplot2, caret, dplyr)
+- SQL (complex queries, database management)
+- Python (pandas, scikit-learn, matplotlib)
+- Tableau, Power BI
+- Advanced Excel
 
 ---
 
 ## 🎯 Project Selection Criteria
 
-Each project in this portfolio was selected because it demonstrates:
-- ✅ Real-world problem solving
-- ✅ Technical proficiency
-- ✅ Business impact
-- ✅ Clear communication of insights
+Each project demonstrates:
+- ✅ Real-world business problem solving
+- ✅ Appropriate technical methodology
+- ✅ Clear data storytelling
+- ✅ Actionable insights and recommendations
 - ✅ Best practices in data analysis
 
 ---
 
-## 📈 Skills Matrix
+## 📞 Contact & Profiles
 
-| Skill | R | SQL | Tableau | Kaggle |
-|-------|---|-----|---------|--------|
-| Data Analysis | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Visualization | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Machine Learning | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ |
-| Database Design | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
-| Dashboard Design | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-
----
-
-## 💡 Tips for Exploring These Projects
-
-1. **Start with R Projects** - Get an overview of my analytical approach
-2. **Review SQL Projects** - See how I query and structure data
-3. **Explore Tableau Dashboards** - Understand my visualization philosophy
-4. **Check Kaggle** - See competitive analytics and model development
-
----
-
-## 🔄 Continuous Learning
-
-I'm constantly working on new projects and improving existing ones. Check back regularly for:
-- New SQL project case studies
-- Additional Tableau dashboards
-- Advanced machine learning projects
-- Industry-specific analyses
-
----
-
-## 📞 Connect
-
-For project inquiries, collaboration opportunities, or questions:
 - **GitHub:** [github.com/evgod2](https://github.com/evgod2)
-- **Tableau Public:** [Evan Deaver](https://public.tableau.com/app/profile/evan.deaver/vizzes)
-- **Kaggle:** [evandeaver](https://www.kaggle.com/evandeaver)
-- **RPubs:** [slammerjammer](https://rpubs.com/slammerjammer)
+- **Email:** evgod2@gmail.com
+- **LinkedIn:** [linkedin.com/in/evan-deaver-276152a5](https://www.linkedin.com/in/evan-deaver-276152a5/)
+- **Kaggle:** [kaggle.com/evandeaver](https://www.kaggle.com/evandeaver)
+- **RPubs:** [rpubs.com/slammerjammer](https://rpubs.com/slammerjammer)
 
 ---
 
