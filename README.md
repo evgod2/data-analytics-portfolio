@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! I'm passionate about transforming raw data into actionable insights using R, SQL, and visualization tools. Below you'll find a curated collection of my analytical projects showcasing different techniques, tools, and domains.
+Welcome to my data analytics portfolio! I transform raw data into actionable insights using R, SQL, and visualization tools. Below you'll find a curated collection of my analytical projects showcasing different techniques, tools, and domains.
 
 ---
 
@@ -27,18 +27,17 @@ Welcome to my data analytics portfolio! I'm passionate about transforming raw da
 
 ### Tableau Visualizations
 
-Explore my interactive dashboards and data visualizations on Tableau Public:
+Explore interactive dashboards and data visualizations on Tableau Public:
 - **Profile:** [Evan Deaver - Tableau Public](https://public.tableau.com/app/profile/evan.deaver/vizzes)
 - **Focus Areas:** Business metrics, customer analytics, and trend visualization
 - **Skills:** Dashboard Design, Interactive Visualization, Data Storytelling
 
 ---
 
-### Kaggle Projects
+### Additional Projects
 
-Check out my Kaggle profile for data exploration, analysis notebooks, and competitive projects:
-- **Profile:** [evandeaver - Kaggle](https://www.kaggle.com/evandeaver)
-- **Includes:** Data exploration, model development, and competitive analysis
+Check out more data exploration, analysis notebooks, and competitive projects:
+- **Kaggle:** [evandeaver](https://www.kaggle.com/evandeaver)
 - **Skills:** Python, Data Science, Exploratory Data Analysis
 
 ---
@@ -49,7 +48,7 @@ Check out my Kaggle profile for data exploration, analysis notebooks, and compet
 - **R** - Data analysis, visualization, statistical modeling
 - **SQL** - Data querying, database management
 - **Tableau** - Interactive dashboards, business intelligence
-- **Python** - Data science and machine learning (Kaggle projects)
+- **Python** - Data science and machine learning
 - **Excel** - Advanced analytics and reporting
 
 ### Methodologies
@@ -79,7 +78,7 @@ Check out my Kaggle profile for data exploration, analysis notebooks, and compet
 | Bitcoin Scam Analysis | R | Cybersecurity/Finance | AI-automation impact on fraud detection |
 | Cyclistic Customer Analysis | R | Business Analytics | Behavioral differences drive customer segmentation strategy |
 | Tableau Dashboards | Tableau | Various | Interactive storytelling for stakeholder decisions |
-| Kaggle Analysis | Python/SQL | Competitive Analytics | Hands-on exploration and model development |
+| Data Analysis Projects | Python/SQL | Competitive Analytics | Hands-on exploration and model development |
 
 ---
 
@@ -93,7 +92,7 @@ This portfolio represents my commitment to rigorous data analysis, clear communi
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact
 
 - **GitHub:** [github.com/evgod2](https://github.com/evgod2)
 - **Tableau Public:** [Evan Deaver](https://public.tableau.com/app/profile/evan.deaver/vizzes)
