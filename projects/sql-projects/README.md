@@ -1,13 +1,12 @@
-# SQL Projects
+# SQL Analytics Projects
 
-## Overview
-This directory contains my SQL-based data analysis projects. These projects showcase database querying, data exploration, and complex SQL techniques used to solve real-world business problems.
+Database querying and data analysis projects demonstrating advanced SQL techniques and real-world problem solving.
 
 ---
 
 ## Featured Projects
 
-### Project 1: [Your SQL Project Title]
+### Project 1: [Project Title]
 **Status:** In Development
 
 **Objective:** [Describe the business problem or analytical goal]
@@ -58,8 +57,8 @@ This directory contains my SQL-based data analysis projects. These projects show
 ---
 
 ## Technologies Used
-- **Database Systems:** [List: PostgreSQL, MySQL, SQL Server, etc.]
-- **Tools:** [SQL IDE, visualization tools, etc.]
+- **Database Systems:** PostgreSQL, MySQL, SQL Server
+- **Tools:** SQL IDE, data visualization tools
 
 ---
 
@@ -87,18 +86,3 @@ sql-projects/
 1. **Review the Analysis:** Start with the `analysis.md` file to understand the project goals and findings
 2. **Examine the Queries:** Look at the SQL scripts in the `queries/` directory
 3. **Adapt for Your Use:** Feel free to use these queries as templates for your own analysis
-
----
-
-## Getting Started with Your First SQL Project
-
-To add your SQL project here:
-1. Create a project folder with a descriptive name
-2. Add your schema definition in `schema.sql`
-3. Organize queries by purpose in the `queries/` directory
-4. Document findings and methodology in `analysis.md`
-
----
-
-## Contact
-For questions about SQL analysis or database design, feel free to reach out!
