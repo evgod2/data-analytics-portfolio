@@ -90,7 +90,7 @@ Collection of statistical analysis and machine learning projects demonstrating a
 - Business Analytics
 - Stakeholder Communication
 
-**Tools:** R, dplyr, tidyverse, ggplot2, Statistical Testing, RMarkdown
+**Tools:** R, dplyr, tidyverse, ggplot2, RMarkdown
 
 ---
 
