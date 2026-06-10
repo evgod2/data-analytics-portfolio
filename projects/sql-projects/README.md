@@ -8,7 +8,7 @@ Database querying, data pipeline optimization, and advanced analytics projects d
 
 ### Project 1: High-Volume Enterprise Financial Pipeline & Transaction Optimization
 
-- **Status:** Complete / Production Ready
+- **Status:** in progress
 - **Objective:** Architected a data warehousing and processing pipeline inside Google BigQuery to ingest, clean, and analyze multi-gigabyte transaction histories to isolate operational anomalies and transaction velocity patterns.
 - **Database System:** Google BigQuery (SQL) & Google Cloud Platform (GCP)
 - **Approach:**
