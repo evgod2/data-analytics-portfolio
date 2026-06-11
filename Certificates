@@ -1,65 +1,25 @@
-<div align="left">
-  <h2>🏆 Professional Certifications</h2>
-  <br/>
+## 🏆 Professional Certifications
 
-  <table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 25px;">
-    <tr style="border: none;">
-      <td width="15%" align="center" valign="top" style="border: none; padding-right: 15px;">
-        <img src="https://images.credly.com/images/829623b3-b3c9-44be-9954-2092f03f7e63/GCC_badge_DA_1000x1000.png" width="110" alt="Google Data Analytics Badge" style="max-width: 100%; height: auto; border-radius: 8px;"/>
-      </td>
-      <td width="85%" valign="top" style="border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-        <h3 style="margin-top: 0; margin-bottom: 5px; color: #1f2328;">Google Data Analytics Professional Certificate</h3>
-        <p style="margin: 0 0 8px 0; font-size: 14px; color: #57606a;"><strong>Issued by:</strong> Google | <strong>Completed:</strong> 2025</p>
-        <p style="margin: 0 0 12px 0; font-size: 14px; color: #24292f; line-height: 1.5;">
-          Rigorous 8-course program covering the end-to-end data life cycle. Developed practical technical proficiency in data cleaning, predictive insight generation, and visualization using <strong>SQL</strong>, <strong>R Programming (Tidyverse)</strong>, <strong>Tableau</strong>, and spreadsheets.
-        </p>
-        <a href="https://coursera.org/share/7e9a39e41db924cc4842c9cc7b726643" target="_blank" style="background-color: #2ea44f; color: white; padding: 6px 14px; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600; display: inline-block;">Verify Full Specialization ↗</a>
-      </td>
-    </tr>
-  </table>
+### Google Data Analytics Professional Certificate
+**Issued by:** Google | **Completed:** 2025
+* [Verify Full Specialization ↗](https://coursera.org/share/7e9a39e41db924cc4842c9cc7b726643)
 
-  <details style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; border: 1px solid #d0d7de; border-radius: 6px; padding: 10px; background-color: #f6f8fa;">
-    <summary style="font-weight: 600; font-size: 14px; color: #24292f; cursor: pointer; user-select: none;">
-      📚 View Completed Curriculum & Individual Course Credentials
-    </summary>
-    <div style="margin-top: 10px; background-color: #ffffff; border-radius: 6px; padding: 5px 15px; border: 1px solid #d0d7de;">
-      
-      <ol style="padding-left: 20px; line-height: 1.8; font-size: 14px; color: #24292f;">
-        <li style="margin-bottom: 8px;">
-          <strong>Foundations: Data, Data, Everywhere</strong> 
-          (<a href="https://coursera.org/share/f81d6e55098c1db5ff34b7b5f5a63bd9" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-        <li style="margin-bottom: 8px;">
-          <strong>Ask Questions to Make Data-Driven Decisions</strong> 
-          (<a href="https://coursera.org/share/537e31b3d3a2ea30ce066deff4bd0298" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-        <li style="margin-bottom: 8px;">
-          <strong>Prepare Data for Exploration</strong> 
-          (<a href="https://coursera.org/share/e1bca51b414159100677c08ecd7e0faf" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-        <li style="margin-bottom: 8px;">
-          <strong>Process Data from Dirty to Clean</strong> 
-          (<a href="https://coursera.org/share/6e7f1136f30fedbad2f7eb9852a063e3" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-        <li style="margin-bottom: 8px;">
-          <strong>Analyze Data to Answer Questions</strong> 
-          (<a href="https://coursera.org/share/932a85461b5379c61baffc8d6f902c8d" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-        <li style="margin-bottom: 8px;">
-          <strong>Share Data Through the Art of Visualization</strong> 
-          (<a href="https://coursera.org/share/b8b2858f2ed83375a8c75092cc6e693a" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-        <li style="margin-bottom: 8px;">
-          <strong>Data Analysis with R Programming</strong> 
-          (<a href="https://coursera.org/share/b142ec120163d9d5291c8cae0ccc30cb" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-        <li style="margin-bottom: 8px;">
-          <strong>Google Data Analytics Capstone: Complete a Case Study</strong> 
-          (<a href="https://coursera.org/share/baa0eb2d68dbe2af9a1115610317e66e" target="_blank" style="color: #0969da; text-decoration: none;">Verify ↗</a>)
-        </li>
-      </ol>
+Rigorous 8-course program covering the end-to-end data life cycle. Developed practical technical proficiency in data cleaning, predictive insight generation, and visualization using **SQL**, **R Programming (Tidyverse)**, **Tableau**, and spreadsheets.
 
-    </div>
-  </details>
+#### 📚 Completed Curriculum & Individual Course Credentials:
+1. **Foundations: Data, Data, Everywhere** — [[Verify ↗](https://coursera.org/share/f81d6e55098c1db5ff34b7b5f5a63bd9)]
+2. **Ask Questions to Make Data-Driven Decisions** — [[Verify ↗](https://coursera.org/share/537e31b3d3a2ea30ce066deff4bd0298)]
+3. **Prepare Data for Exploration** — [[Verify ↗](https://coursera.org/share/e1bca51b414159100677c08ecd7e0faf)]
+4. **Process Data from Dirty to Clean** — [[Verify ↗](https://coursera.org/share/6e7f1136f30fedbad2f7eb9852a063e3)]
+5. **Analyze Data to Answer Questions** — [[Verify ↗](https://coursera.org/share/932a85461b5379c61baffc8d6f902c8d)]
+6. **Share Data Through the Art of Visualization** — [[Verify ↗](https://coursera.org/share/b8b2858f2ed83375a8c75092cc6e693a)]
+7. **Data Analysis with R Programming** — [[Verify ↗](https://coursera.org/share/b142ec120163d9d5291c8cae0ccc30cb)]
+8. **Google Data Analytics Capstone: Complete a Case Study** — [[Verify ↗](https://coursera.org/share/baa0eb2d68dbe2af9a1115610317e66e)]
 
-</div>
+---
+
+### Intro to Machine Learning
+**Issued by:** Kaggle Learn | **Completed:** 2026
+* [Verify Certification ↗](https://www.kaggle.com/learn/certification/evandeaver/intro-to-machine-learning)
+
+Core machine learning framework application using **Python** and **scikit-learn**. Covered fundamental predictive modeling mechanics including data splits, underfitting/overfitting diagnostics, and optimizing ensemble models via **Random Forest Regressors** for competitive data submissions.
